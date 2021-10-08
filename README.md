@@ -1,7 +1,7 @@
 Matplotlib The Power of Plots
 
 Overview:
-For this assignment we use the provided datasets, Mouse_metadata.csv and study_results.csv, to observe changes or phenomena in lab tests conducted on mice to test the effects of pharmaceutical products. Using Matplotlib we are able to create visualizations of this data to find similarities and differences amoung the data, and to support our conclusions. 
+For this assignment we use the provided datasets, Mouse_metadata.csv and study_results.csv, to observe changes or phenomena in lab tests conducted on mice to test the effects of pharmaceutical products. Using Matplotlib we are able to create visualizations and generate a summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen, to support our conclusions. Using the summary table we were able to produce a number of visualizations using the Matplotlib library to support our conclusions.
 
 
 Conclusion: 
